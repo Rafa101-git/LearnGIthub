@@ -1,3 +1,4 @@
 # LearnGIthub
 <br>
-Learning github
+Learning github with enjoyment for the purpose of building a project using html,css and javascript
+
